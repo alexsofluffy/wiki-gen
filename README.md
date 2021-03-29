@@ -1,4 +1,4 @@
-# Content generator
+# Wiki-Gen
 A Python microservice that generates a paragraph of text from Wikipedia 
 containing a primary and secondary keyword entered by the user. The generated 
 paragraph is then outputted into a csv file. The HTML data is retrieved via 
