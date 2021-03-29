@@ -5,6 +5,8 @@ paragraph is then outputted into a csv file. The HTML data is retrieved via
 Wikipedia-API and parsed using Beautiful Soup and Python's standard Regular 
 expressions (re) module. The GUI is written with Tkinter and the input/output 
 files are read/written with Python's csv module.
+
+![](demo.gif)
 ## Features
 - Users can specify a primary and secondary keyword via ```input.csv```
 - Program can be run via GUI, where the generated paragraph is displayed to the 
